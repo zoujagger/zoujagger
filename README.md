@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zoujagger
+- 👋 Hi, I’m Ulrich Jagger
 - 👀 I’m interested in software programming tech, artificial intelligence, business intelligence, datascience, industry 4.0
 - 🌱 I’m currently learning mtconnect protocole
 - 💞️ I’m looking to collaborate on open source project
