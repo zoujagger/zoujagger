@@ -13,10 +13,6 @@ In parallel, I also create machine learning models on a platform that aims to po
 and the production release of models generated from algorithms written in Python and R. 
 Technologies: Python, Apache Spark Anaconda (Numpy, Scipy, Scikit-learn, Tensorflow)
 
-
-- 🌱 I’m currently learning mtconnect protocole
-
-
 <!---
 zoujagger/zoujagger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
