@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ulrich Jagger
 - 👀 I’m interested in software programming tech, artificial intelligence, business intelligence, datascience, industry 4.0
-- 💞️ I’m looking to collaborate on open source project or wire me 
+- 💞️ I’m looking to collaborate on open source project or you can simply hire me 
 - 📫 How to reach me : https://www.linkedin.com/in/ulrichjagger/
   
 Passionate about new technologies, particularly software development. 
